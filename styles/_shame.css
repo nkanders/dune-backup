@@ -1,0 +1,38 @@
+/* put your shameful styles here */
+
+.is-white .header--border {
+  border: none !important;
+}
+
+.footer--block {
+  background-color: var(--pageBG);
+}
+
+.marquee--photo {
+  width: 8rem !important;
+
+  @media (min-width: 768px) .marquee--photo {
+    width: 12rem !important;
+  }
+}
+
+.hero--content {
+  color: var(--pageBG);
+}
+
+.footer--disclaimer {
+  padding-top: 2rem;
+}
+
+.carousel--hud {
+  z-index: 40;
+}
+
+.dropdown--nav a {
+  color: #4d4842;
+  opacity: 0.3;
+}
+
+.sub-pd {
+  margin-bottom: 1em !important;
+}

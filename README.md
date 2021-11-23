@@ -1,0 +1,1 @@
+This project is a Headless Shopify, React/Next, Sanity project. Live site : <a href="https://drinkdune.com">drinkdune.com</a>
